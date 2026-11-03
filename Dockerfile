@@ -1,4 +1,4 @@
-FROM linuxserver/webtop:ubuntu-lxqt-eaaeea13-ls2
+FROM linuxserver/webtop:ubuntu-lxqt-8eee505a-ls6
 
 # Upstream starts Xvfb with a 15360x8640 screen, which pins ~600 MB for the
 # framebuffer alone and OOM-kills the desktop on Railway's 512 MB Trial plan.
